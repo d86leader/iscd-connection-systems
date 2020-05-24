@@ -4,7 +4,7 @@ https://docs.google.com/document/d/1r4StdxBV8QP-geDSIKnM5J4Ywu0DQqEcr0f7SR8_Ta0/
 
 http://kunegin.com/ref/lec/631.htm
 
-[Цифра в общем](./topics/digital.md)
+[Цифра в общем](./digital.md)
 
 Теорема Котельникова: любой непрерывный сигнал, ограниченный сверху частотой F, полностью представляется системой своих дискретных отсчётов с периодом T = 1/2F
 
